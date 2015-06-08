@@ -11,4 +11,7 @@
  
 6. Wikipedia for [Epistasis](http://en.wikipedia.org/wiki/Epistasis)
 
+7. Epistasis: what it means, what it doesn't mean, and statistical methods to detect it in humans, 2002 HMG (A clear [review of the limitations](http://hmg.oxfordjournals.org/content/11/20/2463.full) 
+in moving from statistical estimates of epistatic effects to understanding genetic causation)
+
 
