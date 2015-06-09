@@ -5,7 +5,7 @@
 
 3. Detecting gene–gene interactions that underlie human diseases, 2009 NRG [Review](http://www.nature.com/nrg/journal/v10/n6/full/nrg2579.html) - M & T
 
-4. Analysing biological pathways in genome-wide association studies, 2014 NRG [Review](http://www.nature.com/nrg/journal/v15/n11/full/nrg3747.html) - M & T
+4. Detecting epistasis in human complex traits, 2014 NRG [Review](http://www.nature.com/nrg/journal/v15/n11/full/nrg3747.html) - M & T
 
 5. Quantitative and logic modelling of molecular and gene networks, 2015 NRG [Review](http://www.nature.com/nrg/journal/v16/n3/full/nrg3885.html)
  
@@ -15,5 +15,8 @@
 in moving from statistical estimates of epistatic effects to understanding genetic causation)
 
 8. Integrating physical and genetic maps: from genomes to interaction networks, 2007 NRG [Review](http://www.nature.com/nrg/journal/v8/n9/full/nrg2144.html)
+
+9. Analysing biological pathways in genome-wide association studies, 2010 NRG [Review](http://www.nature.com/nrg/journal/v11/n12/full/nrg2884.html)
+
 
 
