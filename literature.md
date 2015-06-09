@@ -14,4 +14,6 @@
 7. Epistasis: what it means, what it doesn't mean, and statistical methods to detect it in humans, 2002 HMG (A clear [review of the limitations](http://hmg.oxfordjournals.org/content/11/20/2463.full) 
 in moving from statistical estimates of epistatic effects to understanding genetic causation)
 
+8. Integrating physical and genetic maps: from genomes to interaction networks, 2007 NRG [Review](http://www.nature.com/nrg/journal/v8/n9/full/nrg2144.html)
+
 
