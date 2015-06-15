@@ -18,5 +18,5 @@ in moving from statistical estimates of epistatic effects to understanding genet
 
 9. Analysing biological pathways in genome-wide association studies, 2010 NRG [Review](http://www.nature.com/nrg/journal/v11/n12/full/nrg2884.html)
 
-
-
+10. Gene set analysis: [A step-by-step guide](http://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.32328), 2015; Functional and genomic context in pathway analysis of GWAS data, [2014](http://www.sciencedirect.com/science/article/pii/S0168952514001164);
+[Pitfalls](http://www.sciencedirect.com/science/article/pii/S0168952514001607) in the application of gene-set analysis to genetics studies, 2014.
