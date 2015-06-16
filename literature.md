@@ -20,3 +20,6 @@ in moving from statistical estimates of epistatic effects to understanding genet
 
 10. Gene set analysis: [A step-by-step guide](http://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.32328), 2015; Functional and genomic context in pathway analysis of GWAS data, [2014](http://www.sciencedirect.com/science/article/pii/S0168952514001164);
 [Pitfalls](http://www.sciencedirect.com/science/article/pii/S0168952514001607) in the application of gene-set analysis to genetics studies, 2014.
+
+11. Gene-Based Testing of Interactions in Association Studies of Quantitative Traits, [2013](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003321); Knowledge-Driven Analysis Identifies a Gene–Gene Interaction Affecting High-Density Lipoprotein Cholesterol Levels in Multi-Ethnic Populations, [2012](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002714). 
+Knowledge-Driven Multi-Locus Analysis Reveals Gene-Gene Interactions Influencing HDL Cholesterol Level in Two Independent EMR-Linked Biobanks, [2011](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019586#abstract0) from Dr. [Stephen Turner](http://stephenturner.us/).
