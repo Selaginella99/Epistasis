@@ -29,6 +29,12 @@ coef(cvfit, s = `opt.lam`)
 predict(cvfit, newx, s="lambda.min", type...), type is the *same* as predict.glmnet: `class` - binominal/multinomial
 
 #### penalzied 
-[penalized](http://www.rdocumentation.org/packages/penalized)
+[penalized](http://www.rdocumentation.org/packages/penalized); 
 [penalized_vignettes](http://cran.r-project.org/web/packages/penalized/vignettes/penalized.pdf)
+
+Q & A:
+
+Brier score and Harrel's C-Index in glmnet [something wrong](http://r.789695.n4.nabble.com/Interperting-results-of-glmnet-and-coxph-plot-Brier-score-and-Harrel-s-C-Index-am-I-doing-something--td4677166.html);
+
+[warning message](https://stat.ethz.ch/pipermail/r-help/2012-May/312029.html) from stat.ethz.ch
 
