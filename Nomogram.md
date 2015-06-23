@@ -5,7 +5,7 @@
 
 [glmnet](http://www.rdocumentation.org/packages/glmnet/functions/glmnet):
 glmnet(x, y, family=c("gaussian","binomial","poisson","multinomial","cox","mgaussian"), weights, alpha = 1, nlambda = 100,
-standardize = TRUE, penalty.factor = rep(1, nvars), lower.limits=-Inf, type.multinomial="group",
+standardize = TRUE, penalty.factor = rep(1, nvars), lower.limits=-Inf, type.multinomial="grouped",
 `alpha` - 0 for ridge, 1 for lasso (elastic-net mixing parameter α)
 
 [plot.glmnet](http://www.rdocumentation.org/packages/glmnet/functions/plot.glmnet):
@@ -14,12 +14,12 @@ plot(x, xvar = c("norm", "lambda", "dev"), label = FALSE,type.coef=c("coef","2no
 [predict.glmnet](http://www.rdocumentation.org/packages/glmnet/functions/predict.glmnet):
 predict(object, newx, s = c(...,...), 
 type=c("link","response","coefficients","nonzero","class"), exact = FALSE, ...): 
-`link` - log(odds), `response` - odds, `coef` - when s, `nonzero` - indices, `class` - binominal/multinomial
+`link` - log(odds), **`response`** - odds, `coef` - when s, `nonzero` - indices, `class` - binominal/multinomial
 s - `lambda.min` in predict.cv.glmnet
 
 [cv.glmnet](http://www.rdocumentation.org/packages/glmnet/functions/cv.glmnet):
 (x, y, family = , weights, s = , type.measure = ..., nfolds, foldid, grouped, ...), 
-type.measure, `mse` - cox, poisson, `class` - binominal/multinomial,
+type.multinomial = "grouped", `mse` - cox, poisson, `class` - binominal/multinomial,
 opt.lam = c(cvfit$lambda.min, cvfit$lambda.1se)
 coef(cvfit, s = `opt.lam`)
 
