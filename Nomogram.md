@@ -1,3 +1,8 @@
+#### rms
+
+rms on CRAN: [tutorial](http://cran.r-project.org/web/packages/rms/rms.pdf)
+
+
 [MachineLearning](http://cran.r-project.org/web/views/MachineLearning.html) includes `glmnet` package, `penalized` package.
 
 #### glmnet
