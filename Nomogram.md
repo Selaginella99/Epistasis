@@ -1,9 +1,16 @@
 #### rms
 
-rms on CRAN: [tutorial](http://cran.r-project.org/web/packages/rms/rms.pdf)
+rms on CRAN: [tutorial](http://cran.r-project.org/web/packages/rms/rms.pdf), or a more friendly tutorial on [R Documentation](http://www.rdocumentation.org/packages/rms),
+its [main web](http://biostat.mc.vanderbilt.edu/wiki/Main/RmS) is maintained by Dr. Frank E Harrell Jr.
+
+E.g.
+Three updated papers: 2015 on JCO from Dr. He - for [Resected Non–Small-Cell Lung Cancer](http://jco.ascopubs.org/content/33/8/861.long), attached coding in supp
+
+2014 Updated Prognostic Model (http://jco.ascopubs.org/content/32/7/671.long) on JCO from [Duke Cancer Center](https://www.cancer.duke.edu/Nomogram/), 2013 Prognostic Model on [JNCI](http://jnci.oxfordjournals.org/content/105/22/1729.long), both of them in Prostate Cancer.
 
 
-[MachineLearning](http://cran.r-project.org/web/views/MachineLearning.html) includes `glmnet` package, `penalized` package.
+--
+Popular [machineLearning](http://cran.r-project.org/web/views/MachineLearning.html) tools includes `glmnet` package, `penalized` package.
 
 #### glmnet
 [glmnet_vignette](http://web.stanford.edu/~hastie/Papers/Glmnet_Vignette.pdf) from UStanford
