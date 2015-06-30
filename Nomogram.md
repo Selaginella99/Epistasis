@@ -44,6 +44,11 @@ predict(cvfit, newx, s="lambda.min", type...), type is the *same* as predict.glm
 [penalized](http://www.rdocumentation.org/packages/penalized); 
 [penalized_vignettes](http://cran.r-project.org/web/packages/penalized/vignettes/penalized.pdf)
 
+#### random survival forest
+[randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) for survival analysis and
+[ggRandomForests](http://cran.r-project.org/web/packages/ggRandomForests/) for plot - CRAN, github l[ink](https://github.com/ehrlinger/ggRandomForests), handy [doc](http://www.rdocumentation.org/packages/ggRandomForests).
+
+
 Q & A:
 
 Brier score and Harrel's C-Index in glmnet [something wrong](http://r.789695.n4.nabble.com/Interperting-results-of-glmnet-and-coxph-plot-Brier-score-and-Harrel-s-C-Index-am-I-doing-something--td4677166.html);
