@@ -8,6 +8,8 @@ Three updated papers: 2015 on JCO from Dr. He - for [Resected Non–Small-Cell L
 
 2014 Updated Prognostic Model (http://jco.ascopubs.org/content/32/7/671.long) on JCO from [Duke Cancer Center](https://www.cancer.duke.edu/Nomogram/), 2013 Prognostic Model on [JNCI](http://jnci.oxfordjournals.org/content/105/22/1729.long), both of them in Prostate Cancer.
 
+2012 [Nomogram prediction](http://www.nature.com/bjc/journal/v107/n6/full/bjc2012340a.html) for overall survival of patients diagnosed with cervical cancer on BJC
+
 
 --
 Popular [machineLearning](http://cran.r-project.org/web/views/MachineLearning.html) tools includes `glmnet` package, `penalized` package.
