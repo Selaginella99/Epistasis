@@ -24,6 +24,7 @@ in moving from statistical estimates of epistatic effects to understanding genet
 11. Gene-Based Testing of Interactions in Association Studies of Quantitative Traits, [2013](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003321); Knowledge-Driven Analysis Identifies a Gene–Gene Interaction Affecting High-Density Lipoprotein Cholesterol Levels in Multi-Ethnic Populations, [2012](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002714). 
 Knowledge-Driven Multi-Locus Analysis Reveals Gene-Gene Interactions Influencing HDL Cholesterol Level in Two Independent EMR-Linked Biobanks, [2011](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019586#abstract0) from Dr. [Stephen Turner](http://stephenturner.us/).
 
-##### Update methods:
+##### Update methods/papers:
 1. Detecting associations of rare variants with common diseases: collapsing or haplotyping [Logistic Bayesian Lasso - LBL](http://bib.oxfordjournals.org/content/early/2015/01/15/bib.bbu050.long) 
 2. A Robust [GWSS](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120873) Method to Simultaneously Detect Rare and Common Variants for Complex Disease
+3. Cancer type‐dependent genetic interactions between cancer driver alterations indicate plasticity of [epistasis across cell types](http://msb.embopress.org/content/11/7/824.long) on Mol Syst Biol. 2015 Jul.
