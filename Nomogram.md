@@ -11,6 +11,13 @@ Three updated papers: 2015 on JCO from Dr. He - for [Resected Non–Small-Cell L
 
 2012 [Nomogram prediction](http://www.nature.com/bjc/journal/v107/n6/full/bjc2012340a.html) for overall survival of patients diagnosed with cervical cancer on BJC
 
+##### Developing Packages (based on rms)
+
+[SvyNom](https://cran.r-project.org/web/packages/SvyNom/index.html) package and the paper "Building a Nomogram for Survey-Weighted Cox Models Using R" on [JSS](http://www.jstatsoft.org/v64/c01/paper), on the CRAN Task View: [Survival Analysis](https://cran.r-project.org/web/views/Survival.html).
+
+[DynNom](https://cran.r-project.org/web/packages/DynNom/index.html) package: A Dynamic Nomogram for Linear and Generalized Linear Models as [Shiny Applications](http://www.xueqing.cc/course/index/view/id/24). 
+
+
 
 --
 Popular [machineLearning](http://cran.r-project.org/web/views/MachineLearning.html) tools includes `glmnet` package, `penalized` package.
