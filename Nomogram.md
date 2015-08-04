@@ -69,6 +69,7 @@ Brier score and Harrel's C-Index in glmnet [something wrong](http://r.789695.n4.
 #### Examples:
 How to build and interpret [a nomogram for cancer prognosis](http://jco.ascopubs.org/content/26/8/1364.long),
 citations in [2011](http://www.ncbi.nlm.nih.gov/pubmed/22084366), [2012,a](http://www.ncbi.nlm.nih.gov/pubmed/22253459), [2012,b](http://www.ncbi.nlm.nih.gov/pubmed/22734034) and [2014](http://www.ncbi.nlm.nih.gov/pubmed/24419130) on JCO. 
+[Nomograms in oncology](http://www.sciencedirect.com/science/article/pii/S1470204514711167): more than meets the eye on Lancet Oncol. 2015.
 
 [NAT](http://onlinelibrary.wiley.com/doi/10.1002/cncr.28447/full) - esophageal cancer, 2014
 
