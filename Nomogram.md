@@ -1,6 +1,6 @@
 #### rms
 
-rms on CRAN: [tutorial](http://cran.r-project.org/web/packages/rms/rms.pdf), or a more friendly tutorial on [R Documentation](http://www.rdocumentation.org/packages/rms),
+rms on CRAN: [tutorial](http://cran.r-project.org/web/packages/rms/rms.pdf), github [demo codes](https://github.com/harrelfe/rms), or a more friendly tutorial on [R Documentation](http://www.rdocumentation.org/packages/rms),
 its [main web](http://biostat.mc.vanderbilt.edu/wiki/Main/RmS) is maintained by Dr. Frank E Harrell Jr.
 
 E.g.
@@ -72,6 +72,11 @@ citations in [2011](http://www.ncbi.nlm.nih.gov/pubmed/22084366), [2012,a](http:
 [Nomograms in oncology](http://www.sciencedirect.com/science/article/pii/S1470204514711167): more than meets the eye on Lancet Oncol. 2015.
 
 [NAT](http://onlinelibrary.wiley.com/doi/10.1002/cncr.28447/full) - esophageal cancer, 2014
+
+[Clinical Prediction Models](http://onlinelibrary.wiley.com/doi/10.1111/j.1751-5823.2009.00085_22.x): A Practical Approach to Development, Validation, and Updating, 2009. 
+Data sets and `R` code were also supplied, e.g. [case study on survival data](http://www.clinicalpredictionmodels.org/doku.php?id=rcode_and_data:chapter23). This chapter went through the *seven steps* of the checklist for developing valid prediction models.
+It was cited by, [a new framework](http://www.sciencedirect.com/science/article/pii/S0895435614002753) to enhance the interpretation of external validation studies of clinical prediction models, 2015.
+The author also summarized some useful [links](http://www.clinicalpredictionmodels.org/doku.php?id=links:start), marker research in [methodological work](http://www.clinicalpredictionmodels.org/doku.php?id=markers:start), [NRI](http://www.clinicalpredictionmodels.org/doku.php?id=presentations:start) presentation slides, [review](http://annals.org/article.aspx?articleid=1814428) of NRI - Net Reclassification Improvement.
 
 
 
