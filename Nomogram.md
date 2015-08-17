@@ -78,5 +78,12 @@ Data sets and `R` code were also supplied, e.g. [case study on survival data](ht
 It was cited by, [a new framework](http://www.sciencedirect.com/science/article/pii/S0895435614002753) to enhance the interpretation of external validation studies of clinical prediction models, 2015.
 The author also summarized some useful [links](http://www.clinicalpredictionmodels.org/doku.php?id=links:start), marker research in [methodological work](http://www.clinicalpredictionmodels.org/doku.php?id=markers:start), [NRI](http://www.clinicalpredictionmodels.org/doku.php?id=presentations:start) presentation slides, [review](http://annals.org/article.aspx?articleid=1814428) of NRI - Net Reclassification Improvement.
 
+#### 
 
+#### Books & Papers:
+1. [Applied logistic regression](http://www.amazon.com/Applied-Logistic-Regression-David-Hosmer/dp/0470582472); Hosmer DW Jr, Lemeshow S, 2013. 
+2. [Applied Predictive Modeling](http://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485); Max Kuhn, Kjell Johnson, 2013.
+3. Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): [the TRIPOD statement](http://www.bmj.com/content/350/bmj.g7594.long), 2015.
+4. How to develop a more [accurate risk prediction model when there are few events](http://www.bmj.com/content/351/bmj.h3868.full), 2015
+5. An evaluation of penalised survival methods for developing [prognostic models with rare events](http://onlinelibrary.wiley.com/doi/10.1002/sim.4371/full), 2012.
 
