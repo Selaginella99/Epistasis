@@ -30,6 +30,8 @@ Knowledge-Driven Multi-Locus Analysis Reveals Gene-Gene Interactions Influencing
 
 14. Travelling the world of [gene–gene interactions](http://bib.oxfordjournals.org/content/early/2011/03/26/bib.bbr012.short), 2011 bioinformatics
 
+15. A global view of epistasis, [N & V](http://www.nature.com/ng/journal/v37/n1/full/ng0105-13.html), 2005 NG 
+
 ##### Update methods/papers:
 1. Detecting associations of rare variants with common diseases: collapsing or haplotyping [Logistic Bayesian Lasso - LBL](http://bib.oxfordjournals.org/content/early/2015/01/15/bib.bbu050.long) 
 2. A Robust [GWSS](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120873) Method to Simultaneously Detect Rare and Common Variants for Complex Disease
