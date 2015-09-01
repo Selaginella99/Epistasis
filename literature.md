@@ -26,6 +26,10 @@ Knowledge-Driven Multi-Locus Analysis Reveals Gene-Gene Interactions Influencing
 
 12. Methods of integrating data to uncover [genotype–phenotype interactions](http://www.nature.com/nrg/journal/v16/n2/full/nrg3868.html), 2015 NRG Review
 
+13. Epistasis and Its Implications for [Personal Genetics](http://www.sciencedirect.com/science/article/pii/S0002929709003498), 2009 AJHG
+
+14. Travelling the world of [gene–gene interactions](http://bib.oxfordjournals.org/content/early/2011/03/26/bib.bbr012.short), 2011 bioinformatics
+
 ##### Update methods/papers:
 1. Detecting associations of rare variants with common diseases: collapsing or haplotyping [Logistic Bayesian Lasso - LBL](http://bib.oxfordjournals.org/content/early/2015/01/15/bib.bbu050.long) 
 2. A Robust [GWSS](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120873) Method to Simultaneously Detect Rare and Common Variants for Complex Disease
