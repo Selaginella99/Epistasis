@@ -36,3 +36,4 @@ Knowledge-Driven Multi-Locus Analysis Reveals Gene-Gene Interactions Influencing
 1. Detecting associations of rare variants with common diseases: collapsing or haplotyping [Logistic Bayesian Lasso - LBL](http://bib.oxfordjournals.org/content/early/2015/01/15/bib.bbu050.long) 
 2. A Robust [GWSS](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120873) Method to Simultaneously Detect Rare and Common Variants for Complex Disease
 3. Cancer type‐dependent genetic interactions between cancer driver alterations indicate plasticity of [epistasis across cell types](http://msb.embopress.org/content/11/7/824.long) on Mol Syst Biol. 2015 Jul.
+4. [Selecting causal genes](http://www.nature.com/nmeth/journal/v12/n2/full/nmeth.3215.html) from genome-wide association studies via functionally coherent subnetworks, 2015 Nature Methods. [PrixFixe](http://llama.mshri.on.ca/~mtasan/GranPrixFixe/html/)
