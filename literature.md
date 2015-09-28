@@ -41,4 +41,6 @@ Knowledge-Driven Multi-Locus Analysis Reveals Gene-Gene Interactions Influencing
 4. [Selecting causal genes](http://www.nature.com/nmeth/journal/v12/n2/full/nmeth.3215.html) from genome-wide association studies via functionally coherent subnetworks, 2015 Nature Methods. [PrixFixe](http://llama.mshri.on.ca/~mtasan/GranPrixFixe/html/)
 5. A gene-based association method for mapping traits [using reference transcriptome data](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3367.html), 2015 Nature Genetics. [PrediXcan](https://github.com/Selaginella99/PrediXcan)
 6. Genetic variance estimation with imputed variants finds negligible missing heritability for human height and body mass index, [GREML-LDMS](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3390.html), 2015 Nature Genetics
+7. A Genetic Network Associated With Stress Resistance, Longevity, and Cancer in Humans - [A Polygenic Risk Score](http://biomedgerontology.oxfordjournals.org/content/early/2015/09/08/gerona.glv141.full), 2015 J Gerontol A Biol Sci Med Sci by [Morgan E Levine](https://scholar.google.com/citations?hl=en&user=iQGlGZYAAAAJ&view_op=list_works&sortby=pubdate) and [Eileen Crimmins](http://gero.usc.edu/faculty/crimmins/)
+
 
