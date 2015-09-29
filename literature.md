@@ -42,5 +42,6 @@ Knowledge-Driven Multi-Locus Analysis Reveals Gene-Gene Interactions Influencing
 5. A gene-based association method for mapping traits [using reference transcriptome data](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3367.html), 2015 Nature Genetics. [PrediXcan](https://github.com/Selaginella99/PrediXcan)
 6. Genetic variance estimation with imputed variants finds negligible missing heritability for human height and body mass index, [GREML-LDMS](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3390.html), 2015 Nature Genetics
 7. A Genetic Network Associated With Stress Resistance, Longevity, and Cancer in Humans - [A Polygenic Risk Score](http://biomedgerontology.oxfordjournals.org/content/early/2015/09/08/gerona.glv141.full), 2015 J Gerontol A Biol Sci Med Sci by [Morgan E Levine](https://scholar.google.com/citations?hl=en&user=iQGlGZYAAAAJ&view_op=list_works&sortby=pubdate) and [Eileen Crimmins](http://gero.usc.edu/faculty/crimmins/)
+8. Book Series: [Healthy Ageing and Longevity](http://link.springer.com/bookseries/13277), [Longevity Genes](http://link.springer.com/book/10.1007/978-1-4939-2404-2): A Blueprint for Aging, from [SpringLink](http://link.springer.com/search?query=longevity)
 
 
