@@ -73,7 +73,7 @@ citations in [2011](http://www.ncbi.nlm.nih.gov/pubmed/22084366), [2012,a](http:
 
 [NAT](http://onlinelibrary.wiley.com/doi/10.1002/cncr.28447/full) - esophageal cancer, 2014
 
-[Clinical Prediction Models](http://www.clinicalpredictionmodels.org/doku.php?id=start): A Practical Approach to Development, Validation, and Updating, 2009 with one [book review](http://aje.oxfordjournals.org/content/170/4/528.full) on Am. J. Epidemiol.
+[Clinical Prediction Models](http://www.clinicalpredictionmodels.org/doku.php?id=start): A Practical Approach to Development, Validation, and Updating, 2009 by [Dr. Ewout W. Steyerberg](https://scholar.google.com/citations?user=_75LDyMAAAAJ&hl=nl), with one [book review](http://aje.oxfordjournals.org/content/170/4/528.full) on Am. J. Epidemiol. 
 Data sets and `R` code were also supplied, e.g. [case study on survival data](http://www.clinicalpredictionmodels.org/doku.php?id=rcode_and_data:chapter23). This chapter went through the *seven steps* of the checklist for developing valid prediction models.
 It was cited by, [a new framework](http://www.sciencedirect.com/science/article/pii/S0895435614002753) to enhance the interpretation of external validation studies of clinical prediction models, 2015.
 The author also summarized some useful [links](http://www.clinicalpredictionmodels.org/doku.php?id=links:start), marker research in [methodological work](http://www.clinicalpredictionmodels.org/doku.php?id=markers:start), [NRI](http://www.clinicalpredictionmodels.org/doku.php?id=presentations:start) presentation slides, [review](http://annals.org/article.aspx?articleid=1814428) of NRI - Net Reclassification Improvement.
