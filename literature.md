@@ -34,6 +34,8 @@ Knowledge-Driven Multi-Locus Analysis Reveals Gene-Gene Interactions Influencing
 
 16. [Pathway and network analysis](http://www.nature.com/nmeth/journal/v12/n7/full/nmeth.3440.html) of cancer genomes by the International Cancer Genome Consortium (ICGC), 2015 Nature Methods; [Computational approaches](http://www.nature.com/nmeth/journal/v10/n8/full/nmeth.2562.html) to identify functional genetic variants in cancer genomes, 2013 NM; [Pathguide](http://pathguide.org/statistics.php)
 
+17. Bridging the Gap between Statistical and [Biological Epistasis in Alzheimer’s Disease](http://www.hindawi.com/journals/bmri/2015/870123/), BioMed Research International, 2015
+
 ##### Update methods/papers:
 1. Detecting associations of rare variants with common diseases: collapsing or haplotyping [Logistic Bayesian Lasso - LBL](http://bib.oxfordjournals.org/content/early/2015/01/15/bib.bbu050.long) 
 2. A Robust [GWSS](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120873) Method to Simultaneously Detect Rare and Common Variants for Complex Disease
