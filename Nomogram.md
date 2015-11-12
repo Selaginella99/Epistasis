@@ -86,4 +86,5 @@ The author also summarized some useful [links](http://www.clinicalpredictionmode
 3. Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): [the TRIPOD statement](http://www.bmj.com/content/350/bmj.g7594.long), 2015.
 4. How to develop a more [accurate risk prediction model when there are few events](http://www.bmj.com/content/351/bmj.h3868.full), 2015
 5. An evaluation of penalised survival methods for developing [prognostic models with rare events](http://onlinelibrary.wiley.com/doi/10.1002/sim.4371/full), 2012.
+6. [Nomograms in oncology](http://www.sciencedirect.com/science/article/pii/S1470204514711167): more than meets the eye, Lancet Oncol, 2015 
 
