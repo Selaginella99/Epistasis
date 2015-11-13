@@ -68,8 +68,9 @@ Brier score and Harrel's C-Index in glmnet [something wrong](http://r.789695.n4.
 
 #### Examples:
 How to build and interpret [a nomogram for cancer prognosis](http://jco.ascopubs.org/content/26/8/1364.long),
-citations in [2011](http://www.ncbi.nlm.nih.gov/pubmed/22084366), [2012,a](http://www.ncbi.nlm.nih.gov/pubmed/22253459), [2012,b](http://www.ncbi.nlm.nih.gov/pubmed/22734034) and [2014](http://www.ncbi.nlm.nih.gov/pubmed/24419130) on JCO. 
-[Nomograms in oncology](http://www.sciencedirect.com/science/article/pii/S1470204514711167): more than meets the eye on Lancet Oncol. 2015.
+citations in [2011](http://www.ncbi.nlm.nih.gov/pubmed/22084366), [2012,a](http://www.ncbi.nlm.nih.gov/pubmed/22253459), [2012,b](http://www.ncbi.nlm.nih.gov/pubmed/22734034) and [2014](http://www.ncbi.nlm.nih.gov/pubmed/24419130) on JCO. [2013](http://jnci.oxfordjournals.org/content/early/2013/10/15/jnci.djt280.short) on JNCI.
+
+[Nomograms in oncology](http://www.sciencedirect.com/science/article/pii/S1470204514711167): more than meets the eye, Lancet Oncol, 2015. Nomogram based on [genomic characterizations](http://www.sciencedirect.com/science/article/pii/S1470204513704911) Lancet Oncol, 2013.
 
 [NAT](http://onlinelibrary.wiley.com/doi/10.1002/cncr.28447/full) - esophageal cancer, 2014
 
@@ -86,5 +87,3 @@ The author also summarized some useful [links](http://www.clinicalpredictionmode
 3. Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): [the TRIPOD statement](http://www.bmj.com/content/350/bmj.g7594.long), 2015.
 4. How to develop a more [accurate risk prediction model when there are few events](http://www.bmj.com/content/351/bmj.h3868.full), 2015
 5. An evaluation of penalised survival methods for developing [prognostic models with rare events](http://onlinelibrary.wiley.com/doi/10.1002/sim.4371/full), 2012.
-6. [Nomograms in oncology](http://www.sciencedirect.com/science/article/pii/S1470204514711167): more than meets the eye, Lancet Oncol, 2015 
-
